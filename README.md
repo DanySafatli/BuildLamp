@@ -1,4 +1,4 @@
-# BuildLamp
+#BuildUbuntuLamp
 Execute the script to install required packages
 
 Apache2
